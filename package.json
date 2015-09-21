@@ -1,0 +1,15 @@
+{
+  "name": "blank-api",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "author": "alekzonder <alekzonder@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.13.2",
+    "express": "^4.13.1",
+    "log4js": "^0.6.26",
+    "moment": "^2.10.3",
+    "superagent": "^1.2.0"
+  }
+}
